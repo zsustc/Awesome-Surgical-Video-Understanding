@@ -106,7 +106,7 @@ There are compilations of surgery-related tasks, datasets, and papers.
 ### Surgical Phase Recognition
 
 | Paper | Surgery | Image | Link | Code | Type |
-| :-------- | :---- | :---- | :-------- | :-------- | :-------- |
+| :-------- | :---- | :---- | :-------- | :-------- | :-------- |:-------- |
 | EndoNet: A Deep Architecture for Recognition Tasks on Laparoscopic Videos (**TMI-16**) |Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/5997553c-83e1-4da5-be34-63cf1fa8c4a1) | [Link](https://arxiv.org/pdf/1602.03012) | | Vision |
 | SV-RCNet: Workflow Recognition From Surgical Videos Using Recurrent Convolutional Network (**TMI-18**) |Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/64d48b27-b423-4e66-ab48-0917bed762d7) | [Link](https://ieeexplore.ieee.org/abstract/document/8240734) | [Code](https://github.com/YuemingJin/SV-RCNet) | Vision |
 | Hard Frame Detection and Online Mapping for Surgical Phase Recognition (**MICCAI-19**) |Endoscopic Surgery | ![image](https://github.com/user-attachments/assets/f5734c0e-da10-4104-8876-1a84a957c308)  | [Link](https://link.springer.com/chapter/10.1007/978-3-030-32254-0_50) | [Code](https://github.com/ChinaYi/miccai19) | Vision |
